@@ -1,8 +1,12 @@
-#### User this on any transcripts that are just a long line of text
+#### Use this on any transcripts that are just a long line of text
 
 This is not a sophisticated tool.  It simply allows you to pick a transcript that something like my MP3ToTxt has generated, and apply the smallest of formatting to make it more readable.
 
+It does provide a GUI picker, which is nice if you don't like the command line or typing long names.
+
 It can also be used if you use Live Transcribe app on your phone.  You paste and copy the transcript from your phone to your PC, then use this to parse into something a bit more readable.
+
+Once you can picked your text file, it chunks it into paragraphs.  This new file will has the same name as the original only with a _pp at the end to indicate it is in paragraphs.
 
 #### What Do I Need?
 
