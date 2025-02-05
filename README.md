@@ -1,5 +1,4 @@
 #### User this on any transcripts that are just a long line of text
-Test of Git.
 
 This is not a sophisticated tool.  It simply allows you to pick a transcript that something like my MP3ToTxt has generated, and apply the smallest of formatting to make it more readable.
 
